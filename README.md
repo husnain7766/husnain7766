@@ -1,5 +1,5 @@
 # Hi there👋
- I am *Muhammad Husnain* an Software Engineer
+ I am *Muhammad Husnain* a Software Engineer
 <hr>
 
 ## About me
